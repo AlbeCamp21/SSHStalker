@@ -31,7 +31,7 @@ SSHStalker is a lightweight SSH-based enumeration tool designed for **authorized
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/SSHStalker.git
+git clone https://github.com/AlbeCamp21/SSHStalker.git
 cd SSHStalker
 ```
 
